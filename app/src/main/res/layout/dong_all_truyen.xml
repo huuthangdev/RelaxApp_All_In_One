@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/flamelayout_list_truyen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:id="@+id/imgDanhsachTruyen"
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_launcher_background"
+            tools:ignore="ContentDescription" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/txtDanhSachTruyen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:gravity="start"
+        android:lines="2"
+        android:maxWidth="200dp"
+        android:maxLines="2"
+        android:text="Playlist"
+        android:textColor="@android:color/black"
+        android:textSize="15sp"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/txtTacgia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ca sĩ"
+        android:textSize="13sp"
+        tools:ignore="HardcodedText" />
+</LinearLayout>

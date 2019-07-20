@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imgBaihathot"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="3dp"
+        android:scaleType="fitXY"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/txtTenBaihatHot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@+id/imgBaihathot"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="Name"
+        android:textColor="@android:color/black"
+        android:textSize="13sp"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/txtCasiBaihatHot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtTenBaihatHot"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="7dp"
+        android:layout_toEndOf="@+id/imgBaihathot"
+        android:singleLine="true"
+        android:text="Name"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="13sp"
+        tools:ignore="HardcodedText" />
+
+</RelativeLayout>

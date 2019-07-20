@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListQuestion>
+    <questionParse>
+        <question>Địa chỉ email nào sau đây là không hợp lệ?</question>
+        <a>vanphong.thsp@hcmup.edu.vn</a>
+        <b>vanphong@thsp.hcmup.edu.vn</b>
+        <c>vanphong:thsp@gmail.com</c>
+        <d>vanphong_thsp@hcmup.edu.vn</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Loa (speaker) thuộc nhóm thiết bị nào?</question>
+        <a>Thiết bị nhập</a>
+        <b>Thiết bị xuất</b>
+        <c>Thiết bị xử lý</c>
+        <d>Thiết bị điều khiển</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Tốc độ truyền dữ liệu tối đa chuẩn USB 2.0 là gì?</question>
+        <a>1.5Mbps</a>
+        <b>12 Mbps</b>
+        <c>400 Mbps</c>
+        <d>480 Mbps</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Một bit có khả năng biểu diễn bao nhiêu trạng thái?</question>
+        <a>1</a>
+        <b>2</b>
+        <c>3</c>
+        <d>4</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>VGA là viết tắt của thuật ngữ gì?</question>
+        <a>Video Graphics Array</a>
+        <b>Video Graphics Area</b>
+        <c>Video Graphical Array</c>
+        <d>Video Graphical Area</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Các loại cổng nào sau đây dùng để xuất tín hiệu ra màn hình máy tính?</question>
+        <a>VGA, HDMI, DVI</a>
+        <b>VGA, USB, DVI</b>
+        <c>HDMI, USB, COM</c>
+        <d>USB, RJ45, DVI</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Mật khẩu mạnh là mật khẩu nên có chiều dài từ 8 ký tự trở lên và bao gồm?</question>
+        <a>Ký tự chữ thường và chữ in</a>
+        <b>Ký tự chữ thường và số</b>
+        <c>Ký tự chữ in và số</c>
+        <d>Ký tự chữ thường, chữ in, số và các ký tự đặc biệt</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Một byte bằng bao nhiêu bit?</question>
+        <a>8</a>
+        <b>16</b>
+        <c>32</c>
+        <d>64</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Windows 7, để thay đổi hình nền cho desktop ta dùng lệnh nào?</question>
+        <a>Screen resolution</a>
+        <b>Personalize</b>
+        <c>Gadgets</c>
+        <d>View</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Tập tin có phần mở rộng là EXE, thuộc loại chương trình nào sau đây?</question>
+        <a>Xử lý văn bản</a>
+        <b>Xử lý bảng tính</b>
+        <c>Xử lý trình chiếu</c>
+        <d>Chương trình thực thi</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, để dùng chuột chọn nhiều đối tượng không liên tiếp nhau trong Windows Explorer ta cần giữ phím nào?</question>
+        <a>Ctrl</a>
+        <b>Shift</b>
+        <c>Alt</c>
+        <d>Esc</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, để đổi tên tập tin, ta dùng lệnh nào?</question>
+        <a>Copy</a>
+        <b>Paste</b>
+        <c>Rename</c>
+        <d>Delete</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, ý nghĩa dấu * dùng trong lệnh tìm kiếm là gì?</question>
+        <a>Đại diện cho từ không đến nhiều ký tự bất kỳ</a>
+        <b>Đại diện cho 1 nhóm ký tự</b>
+        <c>Đại diện cho 1 ký tự bất kỳ</c>
+        <d>Không có ý nghĩa gì</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Định dạng nào sau đây là định dạng hình ảnh?</question>
+        <a>WAV</a>
+        <b>JPG</b>
+        <c>SWF</c>
+        <d>AVI</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>1 máy tính có thể kết nối đồng thời với bao nhiêu máy in?</question>
+        <a>1 máy in duy nhất</a>
+        <b>Tối đa 2 máy in</b>
+        <c>Nhiều máy in</c>
+        <d>Nhiều máy in có cùng hãng sản xuất</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, để gỡ bỏ chương trình ứng dụng, ta dùng lệnh gì?</question>
+        <a>Change</a>
+        <b>Uninstall</b>
+        <c>Install</c>
+        <d>Restore</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong Win 7, lệnh nào dùng để chọn cách hiển thị thư mục và tập tin tại cửa sổ bên phải của chương trình Windows Explorer?</question>
+        <a>Show the preview pane</a>
+        <b>Change your view</b>
+        <c>Burn</c>
+        <d>Organize</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, ở chế độ hiển thị Print Layout, khi nhấp nút đúp chuột giữa đường biên trên và dưới của 2 mép giấy có tác dụng gì?</question>
+        <a>Chèn thêm 1 trang mới</a>
+        <b>Ẩn/hiện phần lề trên của trang văn bản</b>
+        <c>Ẩn/hiện phần lề dưới của trang văn bản</c>
+        <d>Ẩn/hiện phần lề trên và dưới của trang văn bản</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để di chuyển con trỏ văn bản đến đầu trang tiếp theo, ta dùng phím gì?</question>
+        <a>Page Up</a>
+        <b>Page Down</b>
+        <c>Ctrl + Page Up</c>
+        <d>Ctrl + Page Down</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, lệnh Superscript dùng để làm gì?</question>
+        <a>Tạo đường gạch dưới nét đôi</a>
+        <b>Định dạng văn bản đang dọn có dạng chỉ số trên</b>
+        <c>Định dạng văn bản đang chọn có dạng chỉ số dưới</c>
+        <d>Xóa định dạng văn bản</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, văn bản được lưu dưới dạn sách điện tử (e-book) thường có phần mở rộng là gì?</question>
+        <a>DOC</a>
+        <b>DOCX</b>
+        <c>DOTM</c>
+        <d>PDF</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, nhấp nhanh chuột trái 3 lần vào vị trí nào đó trong đoạn văn bản sẽ có tác dụng gì?</question>
+        <a>Chọn toàn bộ văn bản</a>
+        <b>Chọn nguyên đoạn văn bản (paragraph) tại vị trí nhấp chuột</b>
+        <c>Chọn 1 từ tại vị trí nhấp chuột</c>
+        <d>Chọn nguyên dòng tại vị trí nhấp chuột</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để định dạng văn bản đang chọn canh đều hai bên, ta dùng lệnh gì?</question>
+        <a>Left</a>
+        <b>Right</b>
+        <c>Center</c>
+        <d>Justify</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để thay đổi ký tự, ta dùng lệnh gì trong hộp thoại Font?</question>
+        <a>Scale</a>
+        <b>Character spacing</b>
+        <c>Position</c>
+        <d>Font Size</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để chèn thêm 1 dòng bên dưới dòng đang chọn trong bảng dữ liệu, ta dùng lệnh gì trong thẻ (Table Tools) Layout?</question>
+        <a>Insert Above</a>
+        <b>Insert Below</b>
+        <c>Insert Left</c>
+        <d>Insert Right</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Word 2010, để chuyển đổi qua lại giữa phần ký hiệu chú thích (custom mark) trong văn bản với phần nội dung chú thích, ta dùng lệnh gì?</question>
+        <a>Next Footnote</a>
+        <b>Previous Footnote</b>
+        <c>Next Endnote</c>
+        <d>Show Notes</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, khi nhấp chuột phải lên vùng tên của các trang tính, lệnh nào dưới đây không có?</question>
+        <a>Insert</a>
+        <b>Rename</b>
+        <c>Delete</c>
+        <d>Copy</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, khi nhập 1 ký tự có chiều dài lớn hơn độ rộng của ô thì mặc định sẽ hiển thị như thế nào?</question>
+        <a>Chuỗi ký tự hiển thị tràn sang các ô trống kế bên phải</a>
+        <b>Chuỗi ký tự hiển thị tràn sang các ô trống kế bên trái</b>
+        <c>Chuỗi ký tự hiển thị tràn sang các ô trống kế bên trên</c>
+        <d>Chuỗi ký tự hiển thị tràn sang các ô trống kế bên dưới</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, để chọn toàn bộ trang tính chưa có dữ liệu, ta dùng phím gì?</question>
+        <a>Ctrl + A</a>
+        <b>Shift + A</b>
+        <c>Alt + A</c>
+        <d>Ctrl + Shift + A</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, để cố định địa chỉ ô, ta sử dụng phím tắt nào?</question>
+        <a>F2</a>
+        <b>F3</b>
+        <c>F4</c>
+        <d>F5</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, phép toán so sánh trong biểu thức tính toán luôn cho kết quả là gì?</question>
+        <a>TRUE hoặc FALSE</a>
+        <b>YES hoặc NO</b>
+        <c>ON hoặc OFF</c>
+        <d>0 hoặc 1</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, tại ô A1 có giá trị số 1.99. Công thức =INT(A1) cho kết quả là bao nhiêu?</question>
+        <a>0</a>
+        <b>1</b>
+        <c>2</c>
+        <d>1.9</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, để đổi 1 chuỗi số thành giá trị số tương ứng, ta sử dụng hàm có tên là gì?</question>
+        <a>INT</a>
+        <b>MOD</b>
+        <c>VALUE</c>
+        <d>ROUND</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, tại ô B2 có giá trị "B", C2 có giá trị là 7. Công thức =IF(B2="A",100,IF(C2>=7, 100, IF(C2>=7,200,300)) sẽ cho kết quả là bao nhiêu?</question>
+        <a>100</a>
+        <b>200</b>
+        <c>300</c>
+        <d>#VALUE!</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Excel 2010, để thiết lập in các đường lưới ô trong trang tính ta dùng lệnh gì trong hộp thoại Page Setup - Sheet?</question>
+        <a>Gridlines</a>
+        <b>Black and white</b>
+        <c>Draft quality</c>
+        <d>Row and column headings</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Powerpoint 2010, vùng Content Placeholder của trang chiếu không chứa nút lệnh nào?</question>
+        <a>Insert Table</a>
+        <b>Insert Chart</b>
+        <c>Insert Picture from File</c>
+        <d>Insert WordArt</d>
+        <reply>4</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Powerpoint 2010, để thay đổi bố cục cho trang chiếu dùng lệnh gì trong thẻ Home?</question>
+        <a>Layout</a>
+        <b>New Slide</b>
+        <c>Section</c>
+        <d>Reset</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Powerpoint 2010, để chèn 1 tập tin văn bản MS Word vào trang chiếu, ta dùng lệnh gì?</question>
+        <a>Slides from Outline</a>
+        <b>Reuse Slides</b>
+        <c>Duplicate Selected Slides</c>
+        <d>Add Section</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Powerpoint 2010, để trình chiếu từ trang chiếu hiện hành, ta dùng lệnh gì tại thẻ Slide Show?</question>
+        <a>From Beginning</a>
+        <b>From Current Slide</b>
+        <c>Broadcast Slide Show</c>
+        <d>Custom Slide Show</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Powerpoint 2010, khi thực hiện lệnh Insert-Header and Footer cho trang chiếu, phần nào sau đây là không có?</question>
+        <a>Date and Time</a>
+        <b>Header</b>
+        <c>Footer</c>
+        <d>Slide Number</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Powerpoint 2010, để giữ nguyên định dạng cho các trang chiếu khi được lấy từ 1 bài trình chiếu khác, ta dùng lệnh gì?</question>
+        <a>Duplicate Selected Slides</a>
+        <b>Slices from Outline</b>
+        <c>Keep source formatting</c>
+        <d>Two Content</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Powerpoint 2010, ở chế độ Normal View, thẻ Outline dùng để làm gì?</question>
+        <a>Hiển thị các trang chiếu dưới dạng thu nhỏ</a>
+        <b>Hiển thị các trang chiếu dưới dạng dàn ý</b>
+        <c>Hiển thị các trang chiếu dưới dạng văn bản thô</c>
+        <d>Hiển thị các trang chiếu dưới dạng chú thích</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Trong MS Powerpoint 2010, để thay thế font Tahoma đang được áp dụng trong bài trình chiếu bằng font Arial, ta sử dụng lệnh nào trong thẻ Home?</question>
+        <a>Replace-Replace</a>
+        <b>Replace-Replace Fonts</b>
+        <c>Font</c>
+        <d>Find</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Khi duyệt web, hộp thoại chứa nội dung quảng cáo tự động xuất hiện thì gọi là gì?</question>
+        <a>Pop-up</a>
+        <b>Bookmark</b>
+        <c>History</c>
+        <d>Cookie</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Dịch vụ Telnet dùng để làm gì?</question>
+        <a>Gửi thư điện tử</a>
+        <b>Truyền nhận tập tin</b>
+        <c>Điều khiển máy tính từ xa</c>
+        <d>Hội thảo video từ xa</d>
+        <reply>3</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Tên miền của tổ chức quân sự thường chứa thành phần gì?</question>
+        <a>MIL</a>
+        <b>ORG</b>
+        <c>EDU</c>
+        <d>GOV</d>
+        <reply>1</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Bộ máy tìm kiếm (search engine) thông tin trên Internet của công ty Microsoft tên gì?</question>
+        <a>Google</a>
+        <b>Bing</b>
+        <c>Yahoo</c>
+        <d>Yandex</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Khi lưu 1 trang web thành 1 tập tin trên máy tính, định dạng mặc định của tập tin đó thường là gì?</question>
+        <a>PHP</a>
+        <b>HTML</b>
+        <c>XLSX</c>
+        <d>ASP</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Lích sử duyệt web (history) là gì?</question>
+        <a>Là nơi lưu lại địa chỉ các trang web yêu thích mà người dùng đã đánh dấu</a>
+        <b>Là nơi lưu lại địa chỉ các trang web mà người dùng đã từng duyệt qua</b>
+        <c>Là nơi lưu lại các cookie</c>
+        <d>Là nơi lưu lại bộ nhớ đệm (cache) của trình duyệt</d>
+        <reply>2</reply>
+    </questionParse>
+
+    <questionParse>
+        <question>Để tìm thông tin trên Internet, từ khóa tìm kiếm nên có nội dung như thế nào?</question>
+        <a>Càng ngắn càng tốt</a>
+        <b>Chứa từ đại diện cho thông tin cần tìm</b>
+        <c>Càng dài càng tốt</c>
+        <d>Chứa hình đại diện cho thông tin cần tìm</d>
+        <reply>2</reply>
+    </questionParse>
+
+</ListQuestion>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_background"
+    android:orientation="vertical"
+    android:weightSum="2"
+    tools:context="com.example.doantotnghiep.Controller_AiLaTrieuPhu.BatDauGame">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/milyoner_logo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:padding="20dp"
+            android:src="@drawable/dia_ailatrieuphu"
+            tools:ignore="ContentDescription" />
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/button_passive"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Switch
+                android:id="@+id/openvoice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="@string/sound"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="30dp"
+        android:weightSum="6">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/gray_button"
+            android:onClick="newGame"
+            android:text="@string/start_game"
+            android:textColor="@drawable/gray_button_textcolor"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/gray_button"
+            android:onClick="quit"
+            android:text="@string/quit"
+            android:textColor="@drawable/gray_button_textcolor" />
+
+    </LinearLayout>
+
+</LinearLayout>

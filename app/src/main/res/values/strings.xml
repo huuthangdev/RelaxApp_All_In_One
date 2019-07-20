@@ -1,0 +1,79 @@
+<resources>
+    //Phần App
+    <string name="app_name" translatable="false">BIN PLAY</string>
+    <string name="hello_blank_fragment">Vui lòng kiểm tra kết nối</string>
+    <string name="disconnect">Mất kết nối mạng, vui lòng thử lại.</string>
+    <string name="title_activity_maps">Bản đồ</string>
+    <string name="facebook_app_id">1271079103073300</string>
+    <string name="facebook_login">fb1271079103073300</string>
+    //Game cờ tướng
+    <string name="pref_sound_key" translatable="false">switch_sound</string>
+    <string name="pref_level_key" translatable="false">list_computer_power</string>
+    <string name="pref_who_first_key" translatable="false">switch_computer_first</string>
+    <string name="pref_piece_style_key" translatable="false">list_chess_style</string>
+    <string name="now_loading">Đang tải…</string>
+    <string name="load_book_failed">Lỗi!</string>
+    <string name="congratulations_you_win">Chúc mừng, bạn đã thắng！</string>
+    <string name="you_lose_and_try_again">Bạn đã thua！</string>
+    <string name="play_too_long_as_lose">Chúc mừng, bạn đã thắng！</string>
+    <string name="pc_play_too_long_as_lose">Bạn đã thua！</string>
+    <string name="standoff_as_draw">Bất phân thắng bại！</string>
+    <string name="both_too_long_as_draw">Bất phân thắng bại！</string>
+    <string name="pref_sound_summary">Nếu bạn muốn mở nhạc</string>
+    <string name="pref_sound_title">Nhạc</string>
+    <string name="pref_handicap_summary">Chọn lượt đi đầu:%s</string>
+    <string name="pref_level_title">Cấp độ</string>
+    <string name="pref_level_summary">Cấp độ hiện tại:%s</string>
+    <string name="pref_who_first_summary">Để MÁY chơi trước</string>
+    <string name="pref_who_first_title">MÁY đi trước</string>
+    <string name="pref_piece_title">Mẫu bàn cờ</string>
+    <string name="pref_piece_style_summary">Mẫu hiện tại là:%s</string>
+    <string name="game_settings">Tùy chỉnh game</string>
+    <string name="new_game_started">Game mới！</string>
+    <string name="no_more_histories">Không có nước lùi！</string>
+    <string name="menu_retract">Lùi nước</string>
+    <string name="menu_restart">Game mới</string>
+    <string name="menu_settings">Tùy chọn</string>
+
+    //Con số bí ẩn
+    <string name="info_text_one">Con số bí ẩn nằm giữa <b>0</b> và <b>100</b>.</string>
+    <string name="attempts">Số lượt</string>
+    <string name="info_text_two">Cố gắng vượt qua 5 thử thách nhé!</string>
+    <string name="initial_number">10</string>
+    <string name="guess">CHỐT ĐÁP ÁN</string>
+    <string name="reset">CHƠI LẠI</string>
+    <string name="next_level">CHƠI TIẾP</string>
+    <string name="game_finished">OK</string>
+    <string name="invalidMessage">Chọn 1 số trong khoảng 0 và 100</string>
+    <string name="lowerMessage">Con số nhỏ hơn </string>
+    <string name="higherMessage">Con số lớn hơn </string>
+    <string name="endMessage">Bạn đã thua! Con số bí ẩn là </string>
+    <string name="winMessage1">Tốt! Bạn đã đoán đúng </string>
+    <string name="winMessage2"> Lượt</string>
+    <string name="winMessage3">Bạn quá giỏi!!</string>
+
+    //Ai là triệu phú
+    <string name="start_game">BẮT ĐẦU</string>
+    <string name="my_score">my_score</string>
+    <string name="quit">THOÁT</string>
+    <string name="withdraw">BỎ CUỘC</string>
+    <string name="Audience_answers">Quyền trợ giúp</string>
+    <string name="okay">Chọn</string>
+    <string name="main_menu">Trở về</string>
+    <string name="game_over">Kết thúc! Điểm của bạn: </string>
+    <string name="money">VNĐ</string>
+    <string name="withdraw_sure">Bạn có chắc là muốn bỏ cuộc ?</string>
+    <string name="no">Không</string>
+    <string name="yes">Có</string>
+    <string name="time">giây</string>
+    <string name="point">điểm</string>
+    <string name="duetoscore">Bảng điểm</string>
+    <string name="clearall">Xóa</string>
+    <string name="duetodate">Thời gian</string>
+    <string name="seeit">Nhìn vào</string>
+    <string name="fourthprogramad">Đúng hoặc sai</string>
+    <string name="game_over_final">Chúc mừng! Bạn đã thành triệu phú. Hãy tận hưởng điiiii!!</string>
+    <string name="sound">Nhạc</string>
+    <string name="thanks">Cảm ơn!</string>
+
+</resources>

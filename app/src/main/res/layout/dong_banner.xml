@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageviewbackgroundbanner"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="fitXY"
+        tools:ignore="ContentDescription" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/custom_background_banner" />
+
+    <RelativeLayout
+        android:id="@+id/relative1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageviewbackgroundbanner">
+
+        <ImageView
+            android:id="@+id/imageviewbanner"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:padding="2dp"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/textviewtitlebannerbaihat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageviewbanner"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@+id/imageviewbanner"
+            android:text="Name"
+            android:textColor="@android:color/white"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textviewtitlebannerbaihat"
+            android:layout_marginTop="7dp"
+            android:layout_toEndOf="@+id/imageviewbanner">
+
+            <TextView
+                android:id="@+id/textviewnoidung"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="40dp"
+                android:maxLines="2"
+                android:text="Chú thích"
+                android:textColor="@android:color/white"
+                android:textSize="13sp"
+                android:textStyle="italic"
+                tools:ignore="HardcodedText" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

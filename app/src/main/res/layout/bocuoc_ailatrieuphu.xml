@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_background"
+    android:gravity="bottom"
+    android:minWidth="1000dp"
+    android:minHeight="450dp"
+    android:orientation="vertical"
+    android:weightSum="6">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_weight="1.5"
+        android:background="@drawable/question_container"
+        android:gravity="center"
+        android:text="@string/withdraw_sure"
+        android:textColor="@android:color/white" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="30dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+
+        <Button
+            android:id="@+id/btn_yesToWithdraw"
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/gray_button"
+            android:text="@string/yes"
+            android:textAllCaps="false"
+            android:textColor="@drawable/gray_button_textcolor"
+            tools:ignore="ButtonStyle,NestedWeights" />
+
+        <Button
+            android:id="@+id/btn_noToWithDraw"
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/gray_button"
+            android:text="@string/no"
+            android:textAllCaps="false"
+            android:textColor="@drawable/gray_button_textcolor"
+            tools:ignore="ButtonStyle" />
+    </LinearLayout>
+
+</LinearLayout>
