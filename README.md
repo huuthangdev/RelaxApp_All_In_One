@@ -1,4 +1,4 @@
-ĐỒ ÁN CUỐI KHÓA MÔN LẬP TRÌNH ANDROID TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN TPHCM
+ỨNG DỤNG RELAX APP - ALL IN ONE
 
 Các chức năng chính:
  + Nghe nhạc mp3 online.
@@ -17,3 +17,5 @@ Các chức năng chính:
  + Đã chạy thành công trên máy thật SAMSUNG GALAXY J7 PRIME.
  
 SẢN PHẨM CHƯA ĐĂNG KÝ QUYỀN TÁC GIẢ TRÊN GOOGLE PLAY VÌ LÍ DO KINH PHÍ. PHẢI CHỌN "CÀI ĐẶT ỨNG DỤNG KHÔNG RÕ NGUỒN GỐC" ĐỂ CÀI ĐẶT.
+
+![Alt Text](https://github.com/huuthangdev/RelaxApp_All_In_One/blob/master/20190722_125512.gif)
