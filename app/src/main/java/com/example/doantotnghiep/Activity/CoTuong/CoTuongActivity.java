@@ -49,8 +49,7 @@ public class CoTuongActivity extends AppCompatActivity
     private int mPieceStyle;
     private int mAILevel;
 
-    public CoTuongActivity(int mHandicapIndex) {
-        this.mHandicapIndex = mHandicapIndex;
+    public CoTuongActivity() {
     }
 
     @Override
