@@ -96,7 +96,6 @@
             android:name=".Activity.TicTacToe.TicTacActivity"
             android:screenOrientation="portrait"
             tools:ignore="InnerclassSeparator" />
-        <!--suppress AndroidDomInspection -->
         <activity
             android:name=".Activity.CoTuong.CoTuongActivity"
             android:screenOrientation="portrait"
